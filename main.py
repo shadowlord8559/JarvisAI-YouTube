@@ -1,5 +1,5 @@
 import speech_recognition as sr
-import os
+import windows
 import webbrowser
 import openai
 from config import apikey
